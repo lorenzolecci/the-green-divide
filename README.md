@@ -5,16 +5,19 @@
 ![Project Cover](report/cover_image.png)
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458?logo=pandas&logoColor=white)
-![Requests](https://img.shields.io/badge/requests-%23286140?logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%2311557c?logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%234C72B0?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
+![Requests](https://img.shields.io/badge/requests-%23286140?logo=python&logoColor=white)
+
+![Datawrapper](https://img.shields.io/badge/Visualized_with-Datawrapper-%231B82EE)
+![Flourish](https://img.shields.io/badge/Visualized_with-Flourish-%23FF4A60)
+
 ![Eurostat](https://img.shields.io/badge/Data-Eurostat-%23003399)
 ![UNECE](https://img.shields.io/badge/Data-UNECE-%23418FDE)
 ![OWID](https://img.shields.io/badge/Data-OWID-%23222222)
-![Datawrapper](https://img.shields.io/badge/Visualized_with-Datawrapper-%231B82EE)
-![Flourish](https://img.shields.io/badge/Visualized_with-Flourish-%23FF4A60)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 ## 🌍 About the Project
@@ -126,4 +129,5 @@ Under the following terms:
 **Lorenzo Lecci** - *Data Science Student* @ University of Milan-Bicocca 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lecci-793789297/)
+
 
