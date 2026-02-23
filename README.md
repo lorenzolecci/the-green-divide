@@ -123,7 +123,7 @@ Under the following terms:
 ---
 
 ## 👨‍💻 Author
-**Lorenzo Lecci** 
-*Data Science Student*
+**Lorenzo Lecci** - *Data Science Student* @ University of Milan-Bicocca 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lecci-793789297/)
+
