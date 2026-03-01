@@ -31,7 +31,6 @@ Going beyond EU averages, the project highlights:
 - Energy vulnerability revealed by the 2022 geopolitical crisis
 
 > **TL;DR:** The analysis reveals a widening "multi-speed" Europe. While the electricity sector is successfully integrating renewables, the transport sector is severely lagging. Furthermore, the 2022 crisis exposed how this green divide is no longer just an environmental issue, but a critical matter of national security and geopolitical autonomy.
----
 
 ## 📊 Key Findings & Visualizations
 
@@ -95,8 +94,6 @@ The analysis is automated via Python (`pandas`, `requests`). The workflow includ
 * **Sector Analysis:** Disaggregation of renewable shares into Electricity, Heating, and Transport.
 * **Resilience Metrics:** Merging renewable data with import dependency ratios to assess energy security.
 
----
-
 ## 📈 Datasets for Dataviz
 The clean datasets in the `data/output/` folder are optimized for tools like **Flourish**, or **Datawrapper**.
 | Output File | Recommended Viz | Description |
@@ -105,8 +102,6 @@ The clean datasets in the `data/output/` folder are optimized for tools like **F
 | `eurostat_regional_trends.csv` | **Line Chart (Small Multiples)** | Trends comparison across the 4 European macro-regions. |
 | `war_impact_scatter.csv` | **Scatter Plot** | Correlation between % Renewables (Axis X) and Import Dependency (Axis Y). |
 | `race_to_zero_growth.csv` | **Slope Chart / Dumbbell** | Growth of renewable share from 2012 to 2022 by country. |
-
----
 
 ## 📄 License
 
@@ -122,12 +117,8 @@ Under the following terms:
 
 🔗 https://creativecommons.org/licenses/by/4.0/
 
-
----
-
 ## 👨‍💻 Author
-**Lorenzo Lecci** - *Data Science Student* @ University of Milan-Bicocca 
+* **Lorenzo Lecci** - *Data Science Student* @ University of Milan-Bicocca - [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/lorenzolecci/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lecci-793789297/)
 
 
