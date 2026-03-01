@@ -76,7 +76,7 @@ The-Green-Divide/
 ## ⚙️ How to Reproduce the Analysis
 
 ```bash
-git clone https://github.com/lolluz01/The-Green-Divide.git
+git clone https://github.com/lorenzolecci/The-Green-Divide.git
 cd The-Green-Divide
 pip install -r requirements.txt
 jupyter notebook notebooks/my_project.ipynb
@@ -119,6 +119,7 @@ Under the following terms:
 
 ## 👨‍💻 Author
 **Lorenzo Lecci** - *Data Science Student* @ University of Milan-Bicocca - [LinkedIn](https://www.linkedin.com/in/lorenzo-lecci-793789297/)
+
 
 
 
