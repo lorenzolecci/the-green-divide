@@ -118,7 +118,7 @@ Under the following terms:
 🔗 https://creativecommons.org/licenses/by/4.0/
 
 ## 👨‍💻 Author
-* **Lorenzo Lecci** - *Data Science Student* @ University of Milan-Bicocca - [LinkedIn]([LinkedIn](https://www.linkedin.com/in/lorenzo-lecci-793789297/))
+* **Lorenzo Lecci** - *Data Science Student* @ University of Milan-Bicocca - [LinkedIn](https://www.linkedin.com/in/lorenzo-lecci-793789297/)
 
 
 
